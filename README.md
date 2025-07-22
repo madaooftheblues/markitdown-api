@@ -298,16 +298,6 @@ If you encounter any issues or have questions:
 - [FastAPI](https://fastapi.tiangolo.com/) - The web framework used
 - [Coolify](https://coolify.io/) - Deployment platform
 
-## 📈 Roadmap
-
-- [ ] Rate limiting implementation
-- [ ] Batch file processing
-- [ ] Webhook support for async processing
-- [ ] Additional output formats (HTML, etc.)
-- [ ] Cloud storage integration (S3, etc.)
-- [ ] Advanced OCR options
-- [ ] Multi-language support for OCR
-
 ---
 
 **Built with ❤️ using FastAPI and Microsoft MarkItDown**
